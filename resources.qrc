@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Simple_keeper-logo.png</file>
+    </qresource>
+</RCC>
