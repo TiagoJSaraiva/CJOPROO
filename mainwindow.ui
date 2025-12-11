@@ -131,7 +131,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Selecione a senha que deseja acessar</string>
+     <string>Selecione o cadastro que deseja acessar</string>
     </property>
    </widget>
    <widget class="QPushButton" name="addCardButton">
@@ -147,7 +147,7 @@
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="text">
-     <string>New</string>
+     <string>Novo cadastro</string>
     </property>
    </widget>
    <widget class="QLabel" name="logo">
@@ -215,33 +215,33 @@
    <widget class="QPushButton" name="buttonNextPage">
     <property name="geometry">
      <rect>
-      <x>740</x>
+      <x>710</x>
       <y>340</y>
-      <width>61</width>
+      <width>91</width>
       <height>24</height>
      </rect>
     </property>
     <property name="text">
-     <string>Next page</string>
+     <string>Próxima página</string>
     </property>
    </widget>
    <widget class="QPushButton" name="buttonPrevPage">
     <property name="geometry">
      <rect>
-      <x>620</x>
+      <x>580</x>
       <y>340</y>
-      <width>80</width>
+      <width>91</width>
       <height>24</height>
      </rect>
     </property>
     <property name="text">
-     <string>Previous page</string>
+     <string>Página anterior</string>
     </property>
    </widget>
    <widget class="QLabel" name="labelPageInfo">
     <property name="geometry">
      <rect>
-      <x>710</x>
+      <x>680</x>
       <y>340</y>
       <width>16</width>
       <height>16</height>

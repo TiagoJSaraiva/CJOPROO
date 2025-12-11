@@ -104,12 +104,12 @@
     <rect>
      <x>10</x>
      <y>190</y>
-     <width>49</width>
+     <width>91</width>
      <height>16</height>
     </rect>
    </property>
    <property name="text">
-    <string>Notas</string>
+    <string>Anotações</string>
    </property>
   </widget>
   <widget class="QLabel" name="labelPassword">
