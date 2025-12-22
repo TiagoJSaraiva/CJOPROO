@@ -31,4 +31,4 @@ Este aplicativo foi desenvolvido utilizando a IDE **Qt Creator**, com a linguage
 ## Autor
 
 **Tiago Jarruge Saraiva**  
-📅 Novembro de 2025
+Novembro de 2025
